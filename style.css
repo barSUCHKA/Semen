@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url(https://avatars.mds.yandex.net/i?id=270a2349e821e7b3932778cec99697a8060176db-9683096-images-thumbs&n=13);
+  flex-direction: column;
+  margin: auto;
+}
+
+.back {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.n1 {
+  font-size: 48px;
+  color: violet;
+}
+
+.n2 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(9, 255, 0);
+}
+
+.m1 {
+  background-image: url(https://pozdravlyamba.ru/wp-content/uploads/2020/11/Seksualnye-Pozdravleniia-Muzhchine-300x300.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n3 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(0, 225, 255);
+}
+
+.m2 {
+  background-image: url(https://sun9-58.userapi.com/impg/INPIsDlZCAF58GZFB3G_0vitgVfKL289eI2x7Q/u9Ss8yMxSgY.jpg?size=300x300&quality=95&sign=b6424b77a40c28d558d9a56001743219&c_uniq_tag=cfMLmizSXM2oFElthwy5NBBtPxdmo3_RC58M3blZmAk&type=album);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n4 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+}
+
+.m3 {
+  background-image: url(https://pozdravlyamba.ru/wp-content/uploads/2020/12/Smeshnye-Pozdravleniia-S-Matom-300x300.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n5 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 0, 255);
+}
+
+.m4 {
+  background-image: url(https://img.redzhina.ru/img/ff/47/300/ff47a12a555b8b827cc3e1befa8919b0.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n6 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(229, 255, 0);
+}
+
+.m5 {
+  background-image: url(https://distribution.faceit-cdn.net/images/4bdaf522-4cb8-40eb-973f-73951ee966c0.jpeg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n7 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(89, 0, 255);
+}
+
+.m6 {
+  background-image: url(https://assets.faceit-cdn.net/avatars/dcebfc8a-9f69-4f68-b7e8-228aa1b76dda_1617061378302.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.n8 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 145, 0);
+}
+
+.m7 {
+  background-image: url(https://i.pinimg.com/736x/84/12/f6/8412f61f49724588b5d4b247995b75ed.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
